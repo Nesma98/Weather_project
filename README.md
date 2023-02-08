@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![weather-3](https://user-images.githubusercontent.com/87661208/216377754-f4d04d3a-d183-4cd7-9f88-7d7030fa9c74.png)
-![Weather-4](https://user-images.githubusercontent.com/87661208/216377763-c1d069fd-9550-40a2-82ab-d8adb8d9ded1.png)
+
 
 This project is a starting point for a Flutter application.
 
